@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Shrikar, and I am a junior Computer Science major at Georgia Tech. 
+
+Link to Porfolio: https://davibinboi.github.io/
+
+Contact me at rangarajanshrikar@gmail.com for any inquiries.
+
 <!--
 **davibinboi/davibinboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

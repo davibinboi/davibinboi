@@ -1,6 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shrikar 👋
 
-My name is Shrikar, and I am a junior Computer Science major at Georgia Tech. 
+I'm a CS student at Georgia Tech interested in machine learning, robotics, and building full-stack products.
+
+## 🔧 Technologies I Use
+- React, Next.js, Node.js  
+- Python, PyTorch, Numpy  
+- AWS, Docker  
+
+## 📌 Fun Facts
+- I love cricket  
+- I enjoy building AI-driven tools  
 
 Link to Porfolio: https://davibinboi.github.io/Porfolio
 

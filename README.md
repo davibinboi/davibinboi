@@ -2,7 +2,7 @@
 
 My name is Shrikar, and I am a junior Computer Science major at Georgia Tech. 
 
-Link to Porfolio: https://davibinboi.github.io/
+Link to Porfolio: https://davibinboi.github.io/Porfolio
 
 Contact me at rangarajanshrikar@gmail.com for any inquiries.
 

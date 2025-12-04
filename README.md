@@ -5,7 +5,7 @@ I'm a CS student at Georgia Tech interested in machine learning, robotics, and b
 ## 🔧 Technologies I Use
 - React, Next.js, Node.js  
 - Python, PyTorch, Numpy  
-- AWS, Docker  
+- GCP, AWS, Docker
 
 ## 📌 Fun Facts
 - I love cricket  

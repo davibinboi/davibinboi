@@ -11,7 +11,7 @@ I'm a CS student at Georgia Tech interested in machine learning, robotics, and b
 - I love cricket  
 - I enjoy building AI-driven tools  
 
-Link to Porfolio: https://davibinboi.github.io/Porfolio
+Link to Porfolio: https://davibinboi.github.io/Portfolio
 
 Contact me at rangarajanshrikar@gmail.com for any inquiries.
 

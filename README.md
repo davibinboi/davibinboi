@@ -1,5 +1,7 @@
 # Hi, I'm Shrikar 👋
 
+Currently: Software Engineer Intern at LangChain, working on LangChain Deep Agents - https://github.com/langchain-ai/deepagents
+
 I'm a CS student at Georgia Tech interested in machine learning, robotics, and building full-stack products.
 
 ## 🔧 Technologies I Use
